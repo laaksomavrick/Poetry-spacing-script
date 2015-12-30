@@ -1,6 +1,0 @@
-1)take in the file
-2)turn that into an array
-3)for the length of the array, find a distribution of int values stored in a new array which provides a mapping for the # of spaces
-4)turn that array of ints into an array of spaces
-5)append each line of the array of spaces to the array of lines (poem)
-6)print
