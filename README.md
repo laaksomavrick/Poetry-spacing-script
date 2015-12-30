@@ -1,5 +1,5 @@
 # Poetry-spacing-script
-This is a one-off script I've made to dynamically space poems on a line by line basis with a distribution like a sin curve. 
+This is a one-off script I've made to dynamically space poems on a line by line basis with a distribution like a sin curve. My primary motivation was to practice Ruby.
 
 For example:
 ```
@@ -36,3 +36,5 @@ Becomes:
             Being certain that they and I
          But lived where motley is worn
 ```
+
+Eventually I'd like to create some terminal utilities in ruby and this seems like a good start.
